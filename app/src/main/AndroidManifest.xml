@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".ShowActivity">
         </activity>
+        <activity android:name=".ShopActivity">
+        </activity>
     </application>
 
 </manifest>
